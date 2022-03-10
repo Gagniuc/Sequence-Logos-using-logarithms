@@ -6,7 +6,8 @@
 https://gagniuc.github.io/Sequence-Logos-using-logarithms/
 
 # Screenshot
-![screenshot](https://github.com/Gagniuc/Sequence-Logos-using-logarithms/blob/main/Sequence%20Logos%20using%20logarithms.png)
+
+<kbd><img src="https://github.com/Gagniuc/Sequence-Logos-using-logarithms/blob/main/Sequence%20Logos%20using%20logarithms.png" /></kbd>
 
 # References
 
